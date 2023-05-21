@@ -44,3 +44,4 @@ test.env
 .hive-metastore/
 .spark-warehouse/
 dbt-integration-tests
+local-test-code
